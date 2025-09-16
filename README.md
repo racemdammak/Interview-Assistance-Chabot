@@ -39,6 +39,3 @@ Start the Streamlit Interface:
 ```bash
 streamlit run streamlit\main.py
 ```
-
-## Example Conversation
-![alt text](image.png)
